@@ -1,0 +1,4 @@
+#!/bin/ash
+
+
+su omnidb -s /bin/ash -c "python3 /opt/OmniDB-2.17.0/OmniDB/omnidb-server.py --host=0.0.0.0 --port=8080 -d/etc/omnidb"

@@ -1,0 +1,5 @@
+#!/bin/ash
+NAME="OMNIDB" 
+COMMAND="/usr/local/bin/omnidb-launcher" 
+WAIT="/tmp/omnidb"
+exec service-handler "$NAME" "$COMMAND" "$WAIT"
