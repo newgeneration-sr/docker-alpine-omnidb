@@ -23,7 +23,7 @@ version: '3.1'
 
 services:
   omnidb:
-    build: .
+    image: dotriver/omnidb
     environment:
       - OMNIDB_USER=root
       - OMNIDB_PASS=root
