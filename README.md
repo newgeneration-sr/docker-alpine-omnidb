@@ -1,3 +1,7 @@
+![docker build automated](https://img.shields.io/docker/cloud/automated/dotriver/omnidb)
+![docker build status](https://img.shields.io/docker/cloud/build/dotriver/omnidb)
+![docker build status](https://img.shields.io/docker/cloud/pulls/dotriver/omnidb)
+
 # OmniDB on Alpine Linux + S6 Overlay
 
 PHP_MY_ADMIN like for postgres, mariadb ans mysql
