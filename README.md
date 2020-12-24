@@ -1,6 +1,6 @@
 ![docker build automated](https://img.shields.io/docker/cloud/automated/dotriver/omnidb)
 ![docker build status](https://img.shields.io/docker/cloud/build/dotriver/omnidb)
-![docker build status](https://img.shields.io/docker/cloud/pulls/dotriver/omnidb)
+![docker build status](https://img.shields.io/docker/pulls/dotriver/omnidb)
 
 # OmniDB on Alpine Linux + S6 Overlay
 
